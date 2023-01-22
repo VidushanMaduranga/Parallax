@@ -1,0 +1,13 @@
+.image {
+    height: 320px;
+    width: 280px;
+}
+
+.right-arrow {
+    margin-left: 210px;
+}
+
+.load-more-btn {
+    width: 60%;
+    margin-left: 20%;
+}
